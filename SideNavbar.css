@@ -1,0 +1,107 @@
+*{
+    box-sizing: border-box;
+}
+
+.sidenavbar {
+    width: 164px;
+    padding-top: 24px;
+
+    margin-bottom: 8px;
+    border-inline-end: solid;
+    border-color: #D6D9DC;
+
+    text-align: left;
+    /* overflow-y: auto; */
+
+    font-size: 12px;
+}
+
+.leftsidenavbar {
+    width: 164px;
+    height: 594.96;
+
+    margin-bottom: 8px;
+}
+
+.navigation {
+    width: 164px;
+    height: 594.9px;
+}
+
+.nav-links {
+    width: 164px;
+    height: 596.9px;
+
+    padding-left: 0;
+}
+
+/* 목록 세부 */
+.hometag{
+    width: 164px;
+    height: 34px;
+
+    color: #535659;
+
+    padding-left: 0;
+}
+
+.publictag{
+    width: 164px;
+    height: 110px;
+
+    color: #535659;
+
+    padding-left: 0;
+}
+
+.collectivestag{
+    width: 164px;
+    height: 40px;
+
+    color: #535659;
+
+    padding-left: 0;
+}
+
+.teams{
+    width: 164px;
+    height: 275.2px;
+
+    color: #535659;
+
+    padding-left: 0;
+}
+
+/* 목록 내부 */
+li{
+    padding-left: 20px;
+    list-style: none;
+}
+/* 목록 내부_TEAMS */
+.teamstext{
+    color: black;
+}
+
+.createteamb {
+    width: 130px;
+    height: 27.88px;
+
+    color: #FFFFFF;
+    text-align : center;
+    
+    border-radius: 5%;
+    background-color: #F48224;
+}
+.whyb{
+    width: 130px;
+    height: 27.88px;
+
+    text-align: center;
+    border-radius: 5%;
+}
+
+/* MainPart */
+#content {
+    padding: 24px, 16px;
+    border-left: 1rem;
+}
